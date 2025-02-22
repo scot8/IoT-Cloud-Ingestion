@@ -2,7 +2,7 @@ Below is a detailed `README.md` file for your IoT-Cloud-Ingestion project:
 
 ---
 
-# **IoT-Cloud-Ingestion**
+# **IoT-Cloud-Ingestion.**
 
 This repository contains the setup and configuration details for ingesting real-time data from IoT devices monitoring cattle temperature in a smart farm. The solution uses **Azure IoT Hub** to handle data ingestion for four IoT devices representing the cows in the farm.
 
